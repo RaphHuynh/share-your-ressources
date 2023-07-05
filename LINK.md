@@ -5,34 +5,35 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](./LINK.md)
 [![fr](https://img.shields.io/badge/lang-fr-blue.svg)](./LINK-fr.md)
 
-- [Front-end dev ressourcesd](#front-end-dev-ressourcesd)
-  - [Fontsd](#fontsd)
-  - [Iconsd](#iconsd)
-  - [Ilustrationd](#ilustrationd)
-  - [UI/UX Designd](#uiux-designd)
-- [Back-end dev ressourcesd](#back-end-dev-ressourcesd)
-  - [API toolsd](#api-toolsd)
-- [Devops ressourcesd](#devops-ressourcesd)
-  - [Terminald](#terminald)
-  - [Test toolsd](#test-toolsd)
-- [AI/ML ressourcesd](#aiml-ressourcesd)
-- [Githubd](#githubd)
+- [Front-end dev ressources](#front-end-dev-ressources)
+  - [Fonts](#fonts)
+  - [Icons](#icons)
+  - [Ilustration](#ilustration)
+  - [UI/UX Design](#uiux-design)
+- [Back-end dev ressources](#back-end-dev-ressources)
+  - [API tools](#api-tools)
+- [Devops ressources](#devops-ressources)
+  - [Terminal](#terminal)
+  - [Test tools](#test-tools)
+- [AI/ML ressources](#aiml-ressources)
+- [Github](#github)
 - [APIs](#apis)
-- [VS Code extensionsd](#vs-code-extensionsd)
+- [VS Code extensions](#vs-code-extensions)
+
 ---
 
-## Front-end dev ressourcesd
+## Front-end dev ressources
 
 > Be careful about copyrights, some ressources are free for personal use but not for commercial use for instance.
 
-### Fontsd
+### Fonts
 
 | Description          | Link                                      |
 | -------------------- | ----------------------------------------- |
 | Google fonts library | [Google Fonts](https://fonts.google.com/) |
 | Free fonts service   | [Fontshare](https://www.fontshare.com)    |
 
-### Iconsd
+### Icons
 
 | Description                               | Link                                              |
 | ----------------------------------------- | ------------------------------------------------- |
@@ -45,7 +46,7 @@
 | Tasty CSS-animated hamburgers             | [amburgers](https://jonsuh.com/hamburgers/)       |
 | Beautifully crafted open source 3D icons  | [3Dicons](https://3dicons.co/)                    |
 
-### Ilustrationd
+### Ilustration
 
 | Description                            | Link                                      |
 | -------------------------------------- | ----------------------------------------- |
@@ -54,7 +55,7 @@
 | Library of free SVG ilustrations       | [SVGREPO](https://www.svgrepo.com/)       |
 | Free SVG ilustrations customizable     | [Designstripe](https://designstripe.com/) |
 
-### UI/UX Designd
+### UI/UX Design
 
 | Description                                   | Link                                                                                  |
 | --------------------------------------------- | ------------------------------------------------------------------------------------- |
@@ -73,13 +74,13 @@
 
 ---
 
-## Back-end dev ressourcesd
+## Back-end dev ressources
 
 | Description                         | Link                              |
 | ----------------------------------- | --------------------------------- |
 | Javascript game programming library | [KABOOMjs](https://kaboomjs.com/) |
 
-### API toolsd
+### API tools
 
 | Description           | Link                              |
 | --------------------- | --------------------------------- |
@@ -87,9 +88,9 @@
 
 ---
 
-## Devops ressourcesd
+## Devops ressources
 
-### Terminald
+### Terminal
 
 | Description                                                               | Lien                           |
 | ------------------------------------------------------------------------- | ------------------------------ |
@@ -97,8 +98,7 @@
 | Modern terminal for MacOS (autocomplete, IA, ...)                         | [Warp](https://www.warp.dev/)  |
 | ZSH framework (Linux, MacOS et WSL) adding support for plugins and themes | [Oh-My-Zsh](https://ohmyz.sh/) |
 
-
-### Test toolsd
+### Test tools
 
 | Description                              | Lien                                            |
 | ---------------------------------------- | ----------------------------------------------- |
@@ -106,7 +106,7 @@
 
 ---
 
-## AI/ML ressourcesd
+## AI/ML ressources
 
 | Description                 | Link                                  |
 | --------------------------- | ------------------------------------- |
@@ -114,13 +114,14 @@
 
 ---
 
-## Githubd
+## Github
 
-| Description      | Link                              |
-| ---------------- | --------------------------------- |
-adme's shields | [Shields.io](https://shields.io/) |----
+| Description    | Link                              |
+| -------------- | --------------------------------- | ---- |
+| adme's shields | [Shields.io](https://shields.io/) | ---- |
 
 ---
+
 ## APIs
 
 | Description              | Link                                                      |
@@ -129,7 +130,7 @@ adme's shields | [Shields.io](https://shields.io/) |----
 
 ---
 
-## VS Code extensionsd
+## VS Code extensions
 
 | Description                                                                                                                           | Link                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
