@@ -15,10 +15,10 @@
 - [Devops ressources](#devops-ressources)
   - [Terminal](#terminal)
   - [Test tools](#test-tools)
-- [AI/ML ressources](#aiml-ressources)
-- [Github](#github)
-- [APIs](#apis)
-- [VS Code extensions](#vs-code-extensions)
+  - [AI/ML ressources](#aiml-ressources)
+  - [Github](#github)
+  - [APIs](#apis)
+  - [VS Code extensions](#vs-code-extensions)
 
 ---
 
@@ -106,7 +106,7 @@
 
 ---
 
-## AI/ML ressources
+### AI/ML ressources
 
 | Description                 | Link                                  |
 | --------------------------- | ------------------------------------- |
@@ -114,7 +114,7 @@
 
 ---
 
-## Github
+### Github
 
 | Description    | Link                              |
 | -------------- | --------------------------------- |
@@ -122,7 +122,7 @@
 
 ---
 
-## APIs
+### APIs
 
 | Description              | Link                                                      |
 | ------------------------ | --------------------------------------------------------- |
@@ -130,7 +130,7 @@
 
 ---
 
-## VS Code extensions
+### VS Code extensions
 
 | Description                                                                                                                           | Link                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
