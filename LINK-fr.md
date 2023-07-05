@@ -16,10 +16,10 @@
 - [Ressources DevOps](#ressources-devops)
   - [Terminal](#terminal)
   - [Outils de test](#outils-de-test)
-  - [Ressources IA/ML](#ressources-iaml)
-  - [GitHub](#github)
-  - [API](#api)
-  - [Extensions VS Code](#extensions-vs-code)
+- [Ressources IA/ML](#ressources-iaml)
+- [GitHub](#github)
+- [API](#api)
+- [Extensions VS Code](#extensions-vs-code)
 ---
 ## Ressources de développement front-end
 
@@ -105,28 +105,28 @@
 
 ---
 
-### Ressources IA/ML
+## Ressources IA/ML
 
 | Description                               | Lien                                  |
 | ----------------------------------------- | ------------------------------------- |
 | Génération d'images avec des instructions | [DALL-E](https://openai.com/dall-e-2) |
 
 
-### GitHub
+## GitHub
 
 | Description      | Lien                              |
 | ---------------- | --------------------------------- |
 | Badges de readme | [Shields.io](https://shields.io/) |
 
 
-### API
+## API
 
 | Description                   | Lien                                                      |
 | ----------------------------- | --------------------------------------------------------- |
 | Une multitude d'API publiques | [Public APIs](https://github.com/public-apis/public-apis) |
 
 
-### Extensions VS Code
+## Extensions VS Code
 
 Description                                                                                                                             |   Lien                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
