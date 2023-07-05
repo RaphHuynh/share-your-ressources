@@ -92,11 +92,11 @@
 
 ### Terminal
 
-| Description                                                                           | Lien                           |
-| ------------------------------------------------------------------------------------- | ------------------------------ |
-| Terminal pour MacOS                                                                   | [iterm2](https://iterm2.com/)  |
-| Terminal moderne pour MacOS (auto-complétion, IA, ...)                                | [Warp](https://www.warp.dev/)  |
-| Cadre ZSH (Linux, MacOS et WSL) ajoutant la prise en charge des plugins et des thèmes | [Oh-My-Zsh](https://ohmyz.sh/) |
+| Description                                                                               | Lien                           |
+| ----------------------------------------------------------------------------------------- | ------------------------------ |
+| Terminal pour MacOS                                                                       | [iterm2](https://iterm2.com/)  |
+| Terminal moderne pour MacOS (auto-complétion, IA, ...)                                    | [Warp](https://www.warp.dev/)  |
+| Framework ZSH (Linux, MacOS et WSL) ajoutant la prise en charge des plugins et des thèmes | [Oh-My-Zsh](https://ohmyz.sh/) |
 
 ### Outils de test
 
@@ -117,8 +117,8 @@
 ## GitHub
 
 | Description      | Lien                              |
-| ---------------- | --------------------------------- | ---- |
-| Badges de readme | [Shields.io](https://shields.io/) | ---- |
+| ---------------- | --------------------------------- |
+| Badges de readme | [Shields.io](https://shields.io/) |
 
 ---
 
