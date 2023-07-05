@@ -5,7 +5,6 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](./LINK.md)
 [![fr](https://img.shields.io/badge/lang-fr-blue.svg)](./LINK-fr.md)
 
-
 - [Ressources de développement front-end](#ressources-de-développement-front-end)
   - [Polices](#polices)
   - [Icônes](#icônes)
@@ -20,7 +19,9 @@
 - [GitHub](#github)
 - [API](#api)
 - [Extensions VS Code](#extensions-vs-code)
+
 ---
+
 ## Ressources de développement front-end
 
 > Faites attention aux droits d'auteur, certaines ressources sont gratuites pour un usage personnel mais pas pour un usage commercial par exemple.
@@ -111,6 +112,7 @@
 | ----------------------------------------- | ------------------------------------- |
 | Génération d'images avec des instructions | [DALL-E](https://openai.com/dall-e-2) |
 
+---
 
 ## GitHub
 
@@ -118,6 +120,7 @@
 | ---------------- | --------------------------------- |
 | Badges de readme | [Shields.io](https://shields.io/) |
 
+---
 
 ## API
 
@@ -125,9 +128,17 @@
 | ----------------------------- | --------------------------------------------------------- |
 | Une multitude d'API publiques | [Public APIs](https://github.com/public-apis/public-apis) |
 
+---
 
 ## Extensions VS Code
 
-Description                                                                                                                             |   Lien                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| Extension VS Code qui écrit des commits selon les conventions de [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) | [Conventional Commits](https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits) |
+| Description                                                                                                                             | Lien                                                                                                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Extension VS Code qui écrit des commits selon les conventions de [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) | [Conventional Commits](https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits)                                                                                 |
+| Extension qui vous permet de faire des magnifiques capture d'écran de votre code                                                        | [Snapcode](https://marketplace.visualstudio.com/items?itemName=moyu.snapcode)                                                                                                                  |
+| Affichez la complexité de votre code pour vous permettre de rendre le code plus simple à lire pour vos collègues                        | [CodeMetrics](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics)                                                                                            |
+| Affichez votre historique Git sous la forme d'un graphique pour faciliter la lecture                                                    | [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)                                                                                                            |
+| Vous permette de voir le markdown en temps réel                                                                                         | [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)                                                                                          |
+| Crée un serveur Web qui met à jour en temps réel pendant que vous codez                                                                 | [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)                                                                                                       |
+| Créez un dossier distant sur vos serveurs pour vous permettre de coder sur un serveur distant sans avoir besoin d'un serveur SFTP       | [Remote FS](https://marketplace.visualstudio.com/items?itemName=liximomo.remotefs)                                                                                                             |
+| Une variété de thèmes pour VScode dans une seul extension avec un ensemble d'icônes                                                     | [Bearded Theme](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedtheme) \| [Bearded Icons](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedicons) |
