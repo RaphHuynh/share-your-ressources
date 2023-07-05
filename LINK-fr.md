@@ -5,7 +5,7 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](./LINK.md)
 [![fr](https://img.shields.io/badge/lang-fr-blue.svg)](./LINK-fr.md)
 
-- [Tu fais chier laisse moi écrire zut alors](#tu-fais-chier-laisse-moi-écrire-zut-alors)
+
 - [Ressources de développement front-end](#ressources-de-développement-front-end)
   - [Polices](#polices)
   - [Icônes](#icônes)
@@ -21,7 +21,6 @@
   - [API](#api)
   - [Extensions VS Code](#extensions-vs-code)
 ---
-
 ## Ressources de développement front-end
 
 > Faites attention aux droits d'auteur, certaines ressources sont gratuites pour un usage personnel mais pas pour un usage commercial par exemple.
