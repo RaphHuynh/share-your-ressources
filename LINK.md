@@ -117,8 +117,8 @@
 ## Github
 
 | Description    | Link                              |
-| -------------- | --------------------------------- | ---- |
-| adme's shields | [Shields.io](https://shields.io/) | ---- |
+| -------------- | --------------------------------- |
+| adme's shields | [Shields.io](https://shields.io/) |
 
 ---
 
