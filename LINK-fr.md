@@ -112,17 +112,23 @@
 | ----------------------------------------- | ------------------------------------- |
 | Génération d'images avec des instructions | [DALL-E](https://openai.com/dall-e-2) |
 
+---
+
 ## GitHub
 
 | Description      | Lien                              |
 | ---------------- | --------------------------------- |
 | Badges de readme | [Shields.io](https://shields.io/) |
 
+---
+
 ## API
 
 | Description                   | Lien                                                      |
 | ----------------------------- | --------------------------------------------------------- |
 | Une multitude d'API publiques | [Public APIs](https://github.com/public-apis/public-apis) |
+
+---
 
 ## Extensions VS Code
 
