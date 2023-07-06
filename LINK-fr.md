@@ -2,7 +2,7 @@
 
 <h1 align="center">Liste de ressources utiles</h1>
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](./LINK.md)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](./LINK.md)
 [![fr](https://img.shields.io/badge/lang-fr-blue.svg)](./LINK-fr.md)
 
 - [Ressources de développement front-end](#ressources-de-développement-front-end)
