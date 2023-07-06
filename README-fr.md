@@ -1,5 +1,8 @@
 # A propos de `share-your-ressources` 
 
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](./README.md)
+[![fr](https://img.shields.io/badge/lang-fr-blue.svg)](./README-fr.md)
+
 Ce repo est un projet communautaire qui vous permet de partager des ressources, outils, applications, cours, etc. que vous trouvez intéressants.
 
 Pour garder le repo propre et facile à naviguer, voici quelques directives à suivre lors de l'ajout d'une nouvelle ressource.
