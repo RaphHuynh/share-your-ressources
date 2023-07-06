@@ -116,9 +116,10 @@
 
 ## Github
 
-| Description    | Link                              |
-| -------------- | --------------------------------- |
-| adme's shields | [Shields.io](https://shields.io/) |
+| Description                                                   | Link                                                     |
+| ------------------------------------------------------------- | -------------------------------------------------------- |
+| adme's shields                                                | [Shields.io](https://shields.io/)                        |
+| A nice website that help you to learn how to properly use git | [Learn Git Branching](https://learngitbranching.js.org/) |
 
 ---
 
