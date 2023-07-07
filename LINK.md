@@ -19,6 +19,7 @@
 - [Github](#github)
 - [APIs](#apis)
 - [VS Code extensions](#vs-code-extensions)
+- [Sublime Text Extensions](#sublime-text-extensions)
 
 ---
 
@@ -145,3 +146,13 @@
 | A variety of themes for VScode in one extension with a set of icons                                                                   | [Bearded Theme](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedtheme) \| [Bearded Icons](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedicons) |
 | Live share your IDE and coding sessions to your friends on VS Code, IntelliJ or Eclipse so they can help you on your code             | [CodeTogether](https://marketplace.visualstudio.com/items?itemName=genuitecllc.codetogether)                                                                                                   |
 | Makes indentation easier to read, very helpful for Python developers                                                                  | [ident-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)                                                                                                    |
+
+---
+
+## Sublime Text Extensions
+
+| Description                                       | Link                                                                  |
+| ------------------------------------------------- | --------------------------------------------------------------------- |
+| A Black formatter extension for Python developers | [Python Black](https://packagecontrol.io/packages/python-black)       |
+| A real terminal integrated into Sublime Text      | [Terminus](https://packagecontrol.io/packages/Terminus)               |
+| For those who want a preview of their markdown    | [MarkdownPreview](https://packagecontrol.io/packages/MarkdownPreview) |
