@@ -5,6 +5,7 @@
 [![en](https://img.shields.io/badge/lang-en-blue.svg)](./LINK.md)
 [![fr](https://img.shields.io/badge/lang-fr-blue.svg)](./LINK-fr.md)
 
+- [eBooks](#ebooks)
 - [Front-end dev ressources](#front-end-dev-ressources)
   - [Fonts](#fonts)
   - [Icons](#icons)
@@ -20,6 +21,14 @@
 - [APIs](#apis)
 - [VS Code extensions](#vs-code-extensions)
 - [Sublime Text Extensions](#sublime-text-extensions)
+
+---
+
+## eBooks
+
+| Description                                    | Link                                                                         |
+| ---------------------------------------------- | ---------------------------------------------------------------------------- |
+| Free eBook collection on programming languages | [EbookFoundation](https://github.com/EbookFoundation/free-programming-books) |
 
 ---
 
