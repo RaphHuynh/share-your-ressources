@@ -16,6 +16,7 @@
 - [Devops ressources](#devops-ressources)
   - [Terminal](#terminal)
   - [Test tools](#test-tools)
+  - [Containerization](#containerization)
 - [AI/ML ressources](#aiml-ressources)
 - [Github](#github)
 - [APIs](#apis)
@@ -55,6 +56,7 @@
 | Free icons with various styles            | [Iconer](https://www.svgrepo.com/)                |
 | Tasty CSS-animated hamburgers             | [amburgers](https://jonsuh.com/hamburgers/)       |
 | Beautifully crafted open source 3D icons  | [3Dicons](https://3dicons.co/)                    |
+| Beautiful icon library for React          | [Lucide](https://lucide.dev/)                     |
 
 ### Ilustration
 
@@ -86,15 +88,27 @@
 
 ## Back-end dev ressources
 
-| Description                         | Link                              |
-| ----------------------------------- | --------------------------------- |
-| Javascript game programming library | [KABOOMjs](https://kaboomjs.com/) |
+| Description                               | Link                                      |
+| ----------------------------------------- | ----------------------------------------- |
+| Javascript game programming library       | [KABOOMjs](https://kaboomjs.com/)         |
+| The React Framework for the web           | [NextJS](https://nextjs.org/)             |
+| The API-first framework                   | [API Platform](https://api-platform.com/) |
+| A fully features web framework for NodeJS | [AdonisJS](https://adonisjs.com/)         |
+| A progressive NodeJS framework            | [NestJS](https://nestjs.com/)             |
 
 ### API tools
 
 | Description           | Link                              |
 | --------------------- | --------------------------------- |
 | GUI to make API Calls | [Insomnia](https://insomnia.rest) |
+
+---
+
+## Front-end dev ressources
+
+| Description                | Link                                            |
+| -------------------------- | ----------------------------------------------- |
+| Complete animation library | [Framer motion](https://www.framer.com/motion/) |
 
 ---
 
@@ -113,6 +127,12 @@
 | Description                              | Lien                                            |
 | ---------------------------------------- | ----------------------------------------------- |
 | A free tool to test website optimisation | [Google Page speed](https://pagespeed.web.dev/) |
+
+### Containerization
+
+| Description                                   | Lien                              |
+| --------------------------------------------- | --------------------------------- |
+| Accelerated Container Application Development | [Docker](https://www.docker.com/) |
 
 ---
 
@@ -155,6 +175,7 @@
 | A variety of themes for VScode in one extension with a set of icons                                                                   | [Bearded Theme](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedtheme) \| [Bearded Icons](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedicons) |
 | Live share your IDE and coding sessions to your friends on VS Code, IntelliJ or Eclipse so they can help you on your code             | [CodeTogether](https://marketplace.visualstudio.com/items?itemName=genuitecllc.codetogether)                                                                                                   |
 | Makes indentation easier to read, very helpful for Python developers                                                                  | [ident-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)                                                                                                    |
+| A container full-featured development environment                                                                                     | [Devcontainers](https://code.visualstudio.com/docs/devcontainers/containers)                                                                                                                   |
 
 ---
 
